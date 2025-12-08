@@ -5,9 +5,6 @@ description: INTEC özelleştirme projesi için Dynamics 365 Business Central Se
 
 <meta name="description" content="INTEC özelleştirme projesi için Dynamics 365 Business Central Seyahat Talep Sistemi kullanım adımları, temel alanlar ve onay süreçleri hakkında detaylı eğitim dokümanı.">
 
-# INTEC Seyahat Talep Sistemi Kullanım Kılavuzu
-
-// İçeriğiniz buradan devam ediyor...
 
 ## Giriş ve Genel Bakış
 
