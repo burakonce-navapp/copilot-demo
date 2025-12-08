@@ -1,12 +1,11 @@
 ---
 title: Seyahat Talep Sistemi Kullanım Rehberi INTEC
-description: INTEC özelleştirme projesi için Dynamics 365 Business Central Seyahat Talep Sistemi kullanım adımları, temel alanlar ve onay süreçleri hakkında detaylı eğitim dokümanı.
+description: INTEC projesi, Business Central Seyahat Talep Sistemi kullanım adımları, onay süreçleri ve temel alanlar hakkındaki eğitim kılavuzu.
 ---
 
-<meta name="description" content="INTEC özelleştirme projesi için Dynamics 365 Business Central Seyahat Talep Sistemi kullanım adımları, temel alanlar ve onay süreçleri hakkında detaylı eğitim dokümanı.">
-
-
 ## Giriş ve Genel Bakış
+
+INTEC Customization projesi kapsamında geliştirilen Seyahat Talep Sistemi, çalışanların kurumsal seyahatlerini yönetmek için tasarlanmış kapsamlı bir çözümdür. Bu sistem şirkete ait uçak biletleri, konaklama, araba kiralama gibi seyahat giderlerini organize etmek, takip etmek ve raporlamak için kullanılır.
 
 ## Seyahat Talep Sistemi Nedir?
 
